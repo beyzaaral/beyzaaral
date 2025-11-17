@@ -3,7 +3,7 @@
 ✈︎ ☕︎ 
 
 💻 Sofware Developer sharing about my journey and learnings in tech<br/>
-📃 I’m currently working on Full-Stack Developer<br/>
+📃 Software Developer working on ERP systems (C#, .NET, PowerBuilder, MSSQL, T-SQL)<br/>
 
 
 ## 🌐 Socials and Connections
