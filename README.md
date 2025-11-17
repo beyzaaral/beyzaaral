@@ -1,8 +1,8 @@
-##### Hi I'm Beyza 
+### Hi I'm Beyza 
 
 ✈︎ ☕︎ 
 
-💻 Sofware Developer sharing about my journey and learning in tech<br/>
+💻 Sofware Developer sharing about my journey and learnings in tech<br/>
 
 
 ## 🌐 Socials:
